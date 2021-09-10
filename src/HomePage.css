@@ -1,0 +1,26 @@
+.home-page-body {
+  background-color: #110B11;
+  color: #B7990D;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:space-between;
+}
+
+.title-home-page {
+  border-bottom: solid #B7990D 1px;
+  padding: 0px 150px 3px 150px;
+  margin-top: 10px;
+  margin-bottom: 5%;
+}
+
+.home-page-body footer {
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  margin: 10px 10px 3px 10px;
+  padding: 10px;
+  border-top: solid #B7990D 1px;
+}

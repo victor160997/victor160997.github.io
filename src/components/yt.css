@@ -1,0 +1,6 @@
+.yt-videos {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  margin-top: 30px;
+}

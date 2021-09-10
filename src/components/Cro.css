@@ -1,0 +1,25 @@
+.cro-body {
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  justify-content: space-between;
+  color: #110B11
+}
+
+.cro-body h1 {
+  font-size: xxx-large;
+  margin: 10px;
+  background-color: #B7990D;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.cro-body h2 {
+  margin: 10px;
+  color: #B7990D;
+}
+
+.cro-body ul {
+  margin: 10px;
+  margin-left: 27px;
+}
